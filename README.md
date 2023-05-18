@@ -26,7 +26,9 @@ Daniela Berenice Hernández de Vicente - A01735346
 Siendo honestos, es en mi opinión la mejor estrategia el código de Differential drive vehicle following waypoints using the Pure Pursuit algorithm, ya que evidentemente al tener los puntos es más facil ingresarlos, ante este código lo único que se modifica es la visión de nuestro carrito, su velocidad angular y lineal, para obtener una mejor visión, giros más pronunciados.
 
 **Imagen Objetivo**
+
 ![Foto_Alfredo_Examen](https://github.com/Bere901/Evaluacion-7.1-Trayectorias-en-lazo-abierto/assets/99983026/18f638b5-796f-4e4f-b07f-a322735e9b81)
 
 **Resultados**
+
 ![image](https://github.com/Bere901/Evaluacion-7.1-Trayectorias-en-lazo-abierto/assets/99983026/e59ad59e-c7e9-4ba5-9d25-65a197f2c3d9)
